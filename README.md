@@ -12,5 +12,5 @@ Collection of Three JS Examples. All items are 100% free and open-source.
 | 07  | [Displacement Scroll](https://github.com/JMBoulos12/threejs/tree/main/displacement-scroll) | [Live Demo - Coming SOON](Coming SOON) |
 | 08  | [Flying Carrot](https://github.com/JMBoulos12/threejs/tree/main/flying-carrot) | [Live Demo - Coming SOON](Coming SOON) |
 | 09  | [Fashion Concept](https://github.com/JMBoulos12/threejs/tree/main/fashion-concept) | [Live Demo - Coming SOON](Coming SOON) |
-| 10  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 10  | [Chewing Gum](https://github.com/JMBoulos12/threejs/tree/main/chewing-gum) | [Live Demo - Coming SOON](Coming SOON) |
 | 11  | []() | [Live Demo - Coming SOON](Coming SOON) |
