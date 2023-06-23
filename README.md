@@ -10,7 +10,7 @@ Collection of Three JS Examples. All items are 100% free and open-source.
 | 05  | [Mobile VR PolarScene](https://github.com/JMBoulos12/threejs/tree/main/mobile-vr-polarScene) | [Live Demo - Coming SOON](Coming SOON) |
 | 06  | [Mobile VR Woods Scene](https://github.com/JMBoulos12/threejs/tree/main/mobile-vr-woods-scene) | [Live Demo - Coming SOON](Coming SOON) |
 | 07  | [Displacement Scroll](https://github.com/JMBoulos12/threejs/tree/main/displacement-scroll) | [Live Demo - Coming SOON](Coming SOON) |
-| 08  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 08  | [Flying Carrot](https://github.com/JMBoulos12/threejs/tree/main/flying-carrot) | [Live Demo - Coming SOON](Coming SOON) |
 | 09  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 10  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 11  | []() | [Live Demo - Coming SOON](Coming SOON) |
