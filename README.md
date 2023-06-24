@@ -14,7 +14,7 @@ Collection of Three JS Examples. All items are 100% free and open-source.
 | 09  | [Fashion Concept](https://github.com/JMBoulos12/threejs/tree/main/fashion-concept) | [Live Demo - Coming SOON](Coming SOON) |
 | 10  | [Chewing Gum](https://github.com/JMBoulos12/threejs/tree/main/chewing-gum) | [Live Demo - Coming SOON](Coming SOON) |
 | 11  | [Interactive Particles Text](https://github.com/JMBoulos12/threejs/tree/main/interactive-articles-texts) | [Live Demo - Coming SOON](Coming SOON) |
-| 12  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 12  | [Animated Rocket](https://github.com/JMBoulos12/threejs/tree/main/animated-rocket) | [Live Demo - Coming SOON](Coming SOON) |
 | 13  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 14  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 15  | []() | [Live Demo - Coming SOON](Coming SOON) |
