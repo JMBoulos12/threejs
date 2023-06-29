@@ -26,8 +26,8 @@ Collection of Three JS Examples. All items are 100% free and open-source.
 | 21  | [Storm](https://github.com/JMBoulos12/threejs/tree/main/storm) | [Live Demo - Coming SOON](Coming SOON) |
 | 22  | [Three Particle Morphing Text](https://github.com/JMBoulos12/threejs/tree/main/three-particle-morphing-text) | [Live Demo - Coming SOON](Coming SOON) |
 | 23  | [City 3D](https://github.com/JMBoulos12/threejs/tree/main/city-3d) | [Live Demo - Coming SOON](Coming SOON) |
-| 24  | []() | [Live Demo - Coming SOON](Coming SOON) |
-| 25  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 24  | [Particle Slider](https://github.com/JMBoulos12/threejs/tree/main/particle-slider) | [Live Demo - Coming SOON](Coming SOON) |
+| 25  | [Raycaster](https://github.com/JMBoulos12/threejs/tree/main/Raycaster) | [Live Demo - Coming SOON](Coming SOON) |
 | 26  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 27  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 28  | []() | [Live Demo - Coming SOON](Coming SOON) |
