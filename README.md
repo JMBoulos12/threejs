@@ -24,7 +24,7 @@ Collection of Three JS Examples. All items are 100% free and open-source.
 | 19  | [OBJ Tree](https://github.com/JMBoulos12/threejs/tree/main/obj-tree) | [Live Demo - Coming SOON](Coming SOON) |
 | 20  | [Ripple Mouse](https://github.com/JMBoulos12/threejs/tree/main/ripple-mouse) | [Live Demo - Coming SOON](Coming SOON) |
 | 21  | [Storm](https://github.com/JMBoulos12/threejs/tree/main/storm) | [Live Demo - Coming SOON](Coming SOON) |
-| 22  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 22  | [Three Particle Morphing Text](https://github.com/JMBoulos12/threejs/tree/main/three-particle-morphing-text) | [Live Demo - Coming SOON](Coming SOON) |
 | 23  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 24  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 25  | []() | [Live Demo - Coming SOON](Coming SOON) |
