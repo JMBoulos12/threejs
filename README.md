@@ -32,5 +32,5 @@ Collection of Three JS Examples. All items are 100% free and open-source.
 | 27  | [Cristal Lands](https://github.com/JMBoulos12/threejs/tree/main/cristal-lands) | [Live Demo - Coming SOON](Coming SOON) |
 | 28  | [GLSL: Coral Blooms](https://github.com/JMBoulos12/threejs/tree/main/glsl-Coral-blooms) | [Live Demo - Coming SOON](Coming SOON) |
 | 29  | [Isometric Room](https://github.com/JMBoulos12/threejs/tree/main/isometric-room) | [Live Demo - Coming SOON](Coming SOON) |
-| 30  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 30  | [Stable Curl Noise](https://github.com/JMBoulos12/threejs/tree/main/stable-curl-noise) | [Live Demo - Coming SOON](Coming SOON) |
 | 31  | []() | [Live Demo - Coming SOON](Coming SOON) |
