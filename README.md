@@ -34,7 +34,7 @@ Collection of Three JS Examples. All items are 100% free and open-source.
 | 29  | [Isometric Room](https://github.com/JMBoulos12/threejs/tree/main/isometric-room) | [Live Demo - Coming SOON](Coming SOON) |
 | 30  | [Stable Curl Noise](https://github.com/JMBoulos12/threejs/tree/main/stable-curl-noise) | [Live Demo - Coming SOON](Coming SOON) |
 | 31  | [Cute Jumping Sheep](https://github.com/JMBoulos12/threejs/tree/main/cute-jumping-sheep) | [Live Demo - Coming SOON](Coming SOON) |
-| 32  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 32  | [Breaking Bad | Walter White](https://github.com/JMBoulos12/threejs/tree/main/breaking-bad-Walter-white) | [Live Demo - Coming SOON](Coming SOON) |
 | 33  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 34  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 35  | []() | [Live Demo - Coming SOON](Coming SOON) |
