@@ -1,0 +1,89 @@
+//body { display: none; }
+
+canvas { display: block; position: absolute; top: 0; image-rendering: pixelated; }
+
+header { 
+  position: absolute; bottom: 0; right: 0; left: 0;
+  z-index: 10;
+  text-align: center;
+  font-size: 12px;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  > * { 
+    //display: block; 
+    margin: 0 auto; 
+    padding: 4px 8px;
+    background: rgba(255,255,255,0.8);
+  }
+
+  label { 
+    input { display: none; }
+  }
+
+  .button { 
+    display: inline-block;
+    border: solid 1px #AAA;
+    background: #EEE;
+    padding: 4px 8px;
+    border-radius: 5px;
+  }
+
+}
+
+.dg.ac { z-index: 20 !important; }
+
+.images {
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  //text-align: right; z-index: 10;
+  img, span { display: inline-block;  padding: 6px 6px; }
+  img { cursor: pointer; max-height: 32px; width: auto; transition: background 0.3s linear; border-radius: 4px; }
+
+  img:hover { background: rgba(200,200,200,0.5); }
+}
+
+#drag-and-drop {
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  background: red;
+  z-index: 999;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+
+  &.dragenter { opacity: 1; }
+}
+
+/*////////////////////////////////////////*/
+
+
+
+body {
+
+  &:before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    margin: auto;
+    width: 100%;
+    min-height: 100vh;
+    animation: preview 600ms linear;
+    animation-fill-mode: forwards;
+    background-size: 40% auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+  }
+}
+
+@keyframes preview {
+  0%, 90% { background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAAElBMVEUmRcm7BwfnvRnnGRkXlkIIYCUcRSgwAAAAAXRSTlMAQObYZgAAAGZJREFUeNpd0FEOwCAIA1AL5f5XHkXEbf3Q+hKice1ERW2ANJIXg5P4io3toYjosknltittFjUnGSvin4x0L3B3mihFkcheBAyl6YhE7RJRdvRi54VncC4XMCM8AtDK0Aagv7DqegA8tAM+8Gw2xgAAAABJRU5ErkJggg==); }
+  100% { background-image: none; }
+}
+
