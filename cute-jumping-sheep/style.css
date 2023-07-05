@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+}
+.world {
+  position: absolute;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  background-color: #CCDCDA;
+}
+.world-night {
+  background-color: #1E0F4C;
+}
+.toggle {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  box-shadow: 0 4px 16px #C40062;
+  background: #F8007E url('https://res.cloudinary.com/elliepooh/image/upload/v1491841750/sun_nyr4z3.svg') center center / 60% no-repeat;
+  cursor: pointer;
+}
+.toggle-night {
+  box-shadow: 0 4px 16px #626EC9;
+  background: #9A96E8 url('https://res.cloudinary.com/elliepooh/image/upload/v1491841746/star_u865qq.svg') center 46% / 60% no-repeat;
+}
+.toggle-music {
+  position: absolute;
+  top: 5rem;
+  left: 1rem;
+  width: 3rem;
+  height: 3rem;
+  background: url('https://res.cloudinary.com/elliepooh/image/upload/v1491889929/music_s7aiet.svg') center center / 60% no-repeat;
+  cursor: pointer;
+}
+.music-off {
+  background: url('https://res.cloudinary.com/elliepooh/image/upload/v1491890054/music-off_nrnsni.svg') center center / 60% no-repeat;
+}
