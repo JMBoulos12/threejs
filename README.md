@@ -39,7 +39,7 @@ Collection of Three JS Examples. All items are 100% free and open-source.
 | 34  | [👾 3D Pixels 👾](https://github.com/JMBoulos12/threejs/tree/main/3d-pixels) | [Live Demo - Coming SOON](Coming SOON) |
 | 35  | [Night Drive](https://github.com/JMBoulos12/threejs/tree/main/night-drive) | [Live Demo - Coming SOON](Coming SOON) |
 | 36  | [3D Campfire](https://github.com/JMBoulos12/threejs/tree/main/3d-campfire) | [Live Demo - Coming SOON](Coming SOON) |
-| 37  | []() | [Live Demo - Coming SOON](Coming SOON) |
+| 37  | [Water Shader](https://github.com/JMBoulos12/threejs/tree/main/water-shader) | [Live Demo - Coming SOON](Coming SOON) |
 | 38  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 39  | []() | [Live Demo - Coming SOON](Coming SOON) |
 | 40  | []() | [Live Demo - Coming SOON](Coming SOON) |
